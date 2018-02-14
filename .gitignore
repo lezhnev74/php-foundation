@@ -1,3 +1,4 @@
 .env
 vendor/
 DIARY.md
+.idea/
