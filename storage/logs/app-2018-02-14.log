@@ -1,0 +1,4 @@
+[2018-02-14 12:54:43] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/http_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/http_bad.php:5)"} 
+[2018-02-14 12:55:31] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/console_bad.php:5)"} 
+[2018-02-14 12:55:33] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/console_bad.php:5)"} 
+[2018-02-14 12:55:50] local.INFO: Message {"some":1} 

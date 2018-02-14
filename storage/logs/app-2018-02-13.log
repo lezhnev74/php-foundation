@@ -1,0 +1,43 @@
+[2018-02-13 13:41:23] local.INFO: Good1 [] []
+[2018-02-13 13:41:23] local.INFO: Good2 [] []
+[2018-02-13 13:41:40] local.INFO: Good1 [] []
+[2018-02-13 13:41:40] local.INFO: Good2 [] []
+[2018-02-13 13:42:00] local.INFO: Message [] []
+[2018-02-13 13:42:08] local.INFO: Message {"some":1} []
+[2018-02-13 14:26:52] local.INFO: Message {"some":1} []
+[2018-02-13 14:26:55] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:36:34] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:37:19] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:37:33] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:40:01] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:42:52] local.CRITICAL: Message here#0 {main} [] []
+[2018-02-13 14:46:17] local.CRITICAL: Message here#0 {main} {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)
+[stacktrace]
+#0 {main}
+"} []
+[2018-02-13 14:46:50] local.CRITICAL: Message here#0 {main} {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)
+[stacktrace]
+#0 {main}
+"} []
+[2018-02-13 14:47:10] local.CRITICAL: Message here#0 {main} {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)
+[stacktrace]
+#0 {main}
+"} 
+[2018-02-13 14:47:18] local.CRITICAL: Message here#0 {main} {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 14:50:38] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:50:56] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:52:09] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:52:57] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:53:12] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:53:27] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 14:54:03] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 15:14:09] local.CRITICAL: Message here#0 {main}  
+[2018-02-13 15:27:38] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:28:05] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:28:38] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:30:10] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:35:10] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:36:01] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:46:44] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:46:50] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/console_bad.php:5)"} 
+[2018-02-13 15:48:05] local.CRITICAL: Message here {"exception":"[object] (Exception(code: 10): Message here at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/http_bad.php:6, DomainException(code: 0): Previous message at /Users/dmitriylezhnev/Code/tests/foundation/tests/bootstrap/http_bad.php:5)"} 
