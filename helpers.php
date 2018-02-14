@@ -1,4 +1,6 @@
 <?php
+// Some global functions for convenience
+
 function base_path(string $suffix)
 {
     return __DIR__ . "/" . $suffix;
